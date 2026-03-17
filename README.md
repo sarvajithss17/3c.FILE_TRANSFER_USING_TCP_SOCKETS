@@ -58,6 +58,8 @@ SERVER SIDE
 <img width="1859" height="977" alt="Screenshot 2026-03-16 074650" src="https://github.com/user-attachments/assets/418abc28-75b8-49bb-b33a-25ff77307370" />
 CLIENT SIDE
 <img width="1593" height="435" alt="Screenshot 2026-03-16 072941" src="https://github.com/user-attachments/assets/11f539f4-c862-43e8-a8e6-9c47913273e8" />
+RECEIVED FILE
+<img width="331" height="80" alt="image" src="https://github.com/user-attachments/assets/f044fbf0-9e2f-495e-a728-c2fcb62c3031" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
