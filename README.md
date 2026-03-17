@@ -55,6 +55,7 @@ print('connection closed')
 ```
 ## OUTPUT
 SERVER SIDE
+<img width="1859" height="977" alt="Screenshot 2026-03-16 074650" src="https://github.com/user-attachments/assets/418abc28-75b8-49bb-b33a-25ff77307370" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
